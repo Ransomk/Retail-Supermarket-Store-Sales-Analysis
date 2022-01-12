@@ -1,5 +1,6 @@
 # Retail-Supermarket-Store-Sales-Analysis
 An analysis of a Giant retail supermarket chain's sales data for a period of approx 2.5 years using R to build a model for forecasting Sales
+### Note this is an academic project completed by me as part of my PG Data Science program
 
 ### Bussiness Scenario  
   One of the leading retail stores in the US, Walmart, would like to predict the sales and demand accurately. There are certain events and holidays which impact sales on each day. There are sales data available for 45 stores of Walmart. The business is facing a challenge due to unforeseen demands and runs out of stock some times, due to the inappropriate machine learning algorithm. An ideal ML algorithm will predict demand accurately and ingest factors like economic conditions including CPI, Unemployment Index, etc.
