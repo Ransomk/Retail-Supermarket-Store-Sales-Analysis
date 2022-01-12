@@ -1,7 +1,7 @@
 # Project 1 - Analysis of Sales data from a big supermarket chain
 
 # Read csv file to Data fram SalesData
-SalesData <- read.csv("~/Documents/Data Science Program/Data Science with R Course files/Assignment 1/Walmart_Store_sales.csv")
+SalesData <- read.csv("~/Walmart_Store_sales.csv")
 
 # Set the Store as a factor from type int > We got 45 Stores as seen in the data
 SalesData$Store <- as.factor(SalesData$Store)
