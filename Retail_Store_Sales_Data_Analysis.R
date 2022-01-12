@@ -1,4 +1,4 @@
-# Project 1 - Walmart Data
+# Project 1 - Analysis of Sales data from a big supermarket chain
 
 # Read csv file to Data fram SalesData
 SalesData <- read.csv("~/Documents/Data Science Program/Data Science with R Course files/Assignment 1/Walmart_Store_sales.csv")
